@@ -1,4 +1,4 @@
-## Freshman at Bilkent
+## Hello my name is Sarp and I'm a freshman at Bilkent
 
 <!--
 **SarpGuven/SarpGuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
